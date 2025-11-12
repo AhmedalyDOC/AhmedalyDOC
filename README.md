@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AhmedalyDOC"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2D2&width=430&lines=Hi+there!%2C+I'm+AHMED;A+Data+Analyst;Problem-Solver;Process+Improver" alt="Typing SVG"></a>
+  <a href="https://github.com/AhmedalyDOC"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2D2&width=430&lines=Hi+there!%2C+I'm+AHMED;A+Data+Analyst;Problem-Solver;Process+Improver&center=true" alt="Typing SVG"></a>
 </p>
 
 <h3>👋 I'm Ahmed Aly!</h3>
@@ -21,7 +21,7 @@ A certified Google Data Analyst seeking to leverage these skills to drive busine
     <tr>
       <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48" alt="Excel" />
         </a>
         <br>Excel
       </td>
@@ -45,13 +45,13 @@ A certified Google Data Analyst seeking to leverage these skills to drive busine
       </td>
        <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Photoshop" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
         </a>
         <br>Photoshop
       </td>
        <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="48" height="48" alt="Illustrator" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
         </a>
         <br>Illustrator
       </td>
@@ -63,7 +63,7 @@ A certified Google Data Analyst seeking to leverage these skills to drive busine
 
 <p align="center">
     <a href="https://github.com/AhmedalyDOC?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/AhmedalyDOC" target="_blank"><img alt="visits" src="https://badges.pufler.dev/visits/AhmedalyDOC/AhmedalyDOC?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/AhmedalyDOC" target="_blank"><img alt="Profile Visits" src="https://komarev.com/ghpvc/?username=AhmedalyDOC&label=Profile+Visits&color=brightgreen&style=flat-square"/></a>
     <a href="https://github.com/AhmedalyDOC/AhmedalyDOC" target="_blank"><img alt="profile updated" src="https://img.shields.io/github/last-commit/AhmedalyDOC/AhmedalyDOC?label=profile%20updated&style=flat-square"></a>
 </p>
 
