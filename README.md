@@ -29,7 +29,7 @@ Proven track record in process improvement, data management, and operations coor
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
         <br>Excel
       </td>
       <td align="center" width="96">
@@ -37,7 +37,7 @@ Proven track record in process improvement, data management, and operations coor
         <br>Google Sheets
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/power-bi.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
