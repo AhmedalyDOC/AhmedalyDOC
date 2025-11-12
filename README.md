@@ -21,7 +21,7 @@ A certified Google Data Analyst seeking to leverage these skills to drive busine
     <tr>
       <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48" alt="Excel" />
+          <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
         </a>
         <br>Excel
       </td>
@@ -45,13 +45,13 @@ A certified Google Data Analyst seeking to leverage these skills to drive busine
       </td>
        <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+          <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Photoshop" />
         </a>
         <br>Photoshop
       </td>
        <td align="center" width="96">
         <a href="#ahmed-tech-stack">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
+          <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="48" height="48" alt="Illustrator" />
         </a>
         <br>Illustrator
       </td>
