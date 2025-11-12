@@ -6,7 +6,7 @@
 
 <h2 align="center">👋 I'm Ahmed Aly</h2>
 
-<p align="center">
+<p align="left">
 A proactive, results-driven administrative professional skilled in problem-solving and transforming manual processes into efficient digital systems.<br>
 Proven track record in process improvement, data management, and operations coordination.<br><br>
 🎓 A certified <b>Google Data Analyst</b> seeking to leverage these skills to drive business efficiency.
