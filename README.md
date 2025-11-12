@@ -8,7 +8,7 @@
 
 <p align="left">
 A proactive, results-driven administrative professional skilled in problem-solving and transforming manual processes into efficient digital systems.<br>
-Proven track record in process improvement, data management, and operations coordination.<br><br>
+Proven track record in process improvement, data management, and operations coordination.
 <p align="center">
 🎓 A certified <b>Google Data Analyst</b> seeking to leverage these skills to drive business efficiency.
 </p>
