@@ -37,7 +37,7 @@ Proven track record in process improvement, data management, and operations coor
         <br>Google Sheets
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/power-bi.svg" width="48" height="48" alt="Power BI" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
