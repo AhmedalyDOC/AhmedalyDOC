@@ -29,7 +29,7 @@ Proven track record in process improvement, data management, and operations coor
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%932025).svg" width="48" height="48" alt="Excel" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="48" height="48" alt="Excel" />
         <br>Excel
       </td>
       <td align="center" width="96">
